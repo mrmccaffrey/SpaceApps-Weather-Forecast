@@ -1,4 +1,5 @@
 ClimaCast
+
 A Streamlit tool for checking 40-year historical weather patterns at specific coordinates. It hits the NASA POWER API to pull temperature, wind, and precip data for a specific calendar day across the last four decades to help estimate "likely" conditions for future outdoor planning.
 
 How it works
